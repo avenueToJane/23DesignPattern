@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/陕西省的初始化项目/TPSAppSN/tpsappsn-parent.iml" filepath="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-parent.iml" />
+      <module fileurl="file://E:/陕西省的初始化项目/TPSAppSN/tpsappsn-parent (2).iml" filepath="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-parent (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/westlifeys.iml" filepath="$PROJECT_DIR$/westlifeys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/中介者模式/中介者模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/中介者模式/中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/享元模式/享元模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/享元模式/享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/代理模式/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/创建型模式5种.iml" filepath="$PROJECT_DIR$/创建型模式5种/创建型模式5种.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/创建型模式5种/单例模式/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/原型模式/原型模式.iml" filepath="$PROJECT_DIR$/创建型模式5种/原型模式/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/命令模式/命令模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/命令模式/命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/备忘录模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/备忘录模式/备忘录模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/外观模式/外观模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/外观模式/外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/适配器模式/对象的适配器模式/对象的适配器模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/适配器模式/对象的适配器模式/对象的适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/工厂方法模式/工厂方法模式.iml" filepath="$PROJECT_DIR$/创建型模式5种/工厂方法模式/工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/建造者模式/建造者模式.iml" filepath="$PROJECT_DIR$/创建型模式5种/建造者模式/建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/创建型模式5种/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/创建型模式5种/抽象工厂模式/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/适配器模式/接口的适配器模式/接口的适配器模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/适配器模式/接口的适配器模式/接口的适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/桥接模式/桥接模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/桥接模式/桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/模板方法模式/模板方法模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/模板方法模式/模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/状态模式/状态模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/状态模式/状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/策略模式/策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/适配器模式/类的适配器模式/类的适配器模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/适配器模式/类的适配器模式/类的适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/组合模式/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/结构型模式7种.iml" filepath="$PROJECT_DIR$/结构型模式7种/结构型模式7种.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/行为型模式11种.iml" filepath="$PROJECT_DIR$/行为型模式11种/行为型模式11种.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/装饰模式/装饰模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/装饰模式/装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/观察者模式/观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/解释器模式/解释器模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/解释器模式/解释器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/访问者模式/访问者模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/访问者模式/访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/责任链模式/责任链模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/责任链模式/责任链模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/迭代子模式.iml" filepath="$PROJECT_DIR$/行为型模式11种/迭代子模式/迭代子模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/结构型模式7种/适配器模式/适配器模式.iml" filepath="$PROJECT_DIR$/结构型模式7种/适配器模式/适配器模式.iml" />
+    </modules>
+  </component>
+</project>

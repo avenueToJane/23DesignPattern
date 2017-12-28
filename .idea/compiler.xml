@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="tpsappsn-beans" target="1.5" />
+      <module name="tpsappsn-beans (2)" target="1.7" />
+      <module name="tpsappsn-dao" target="1.5" />
+      <module name="tpsappsn-dao (2)" target="1.7" />
+      <module name="tpsappsn-iservice" target="1.5" />
+      <module name="tpsappsn-iservice (2)" target="1.7" />
+      <module name="tpsappsn-parent" target="1.7" />
+      <module name="tpsappsn-parent (2)" target="1.7" />
+      <module name="tpsappsn-service-impl" target="1.5" />
+      <module name="tpsappsn-service-impl (2)" target="1.7" />
+      <module name="tpsappsn-utils" target="1.5" />
+      <module name="tpsappsn-utils (2)" target="1.7" />
+      <module name="tpsappsn-web" target="1.5" />
+      <module name="tpsappsn-web (2)" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
