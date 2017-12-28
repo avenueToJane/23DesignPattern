@@ -2,118 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a307d0a-ea42-4e51-a9b4-d29b38f2ccbe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/Mediator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/MyMediator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Proxy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/ProxyTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Source.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Sourceable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Memento.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Original.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Storage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/CPU.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Computer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Disk.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Memory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Adapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/AdapterTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Source.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Targetable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/FactoryTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/MailSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/SendFactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/Sender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/SmsSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/FactoryTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/MailSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/SendFactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/Sender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/SmsSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/FactoryTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/MailSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/SendFactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/Sender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/SmsSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/MailSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Sender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/SmsSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/MailSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Provider.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SendMailFactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SendSmsFactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Sender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SmsSender.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/SourceSub1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/SourceSub2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/Sourceable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/Wrapper2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/WrapperTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/Bridge.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/BridgeTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/MyBridge.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/SourceSub1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/SourceSub2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/Sourceable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/readme" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/AbstractCalculator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/Plus.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/StrategyTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/Context.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/State.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/AbstractCalculator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/ICalculator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Minus.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Multiply.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Plus.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/StrategyTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Adapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/AdapterTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Source.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Targetable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/组合模式/composite/Tree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/组合模式/composite/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Decorator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/DecoratorTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Source.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Sourceable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/AbstractSubject.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/MySubject.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/ObserverTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Subject.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Context.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Expression.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Minus.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Plus.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/MySubject.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/MyVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Subject.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Visitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/AbstractHandler.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/Handler.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/MyHandler.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Collection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Iterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/MyCollection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/MyIterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Test.class" />
-      <change beforePath="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java" afterPath="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-beans/target/" />
@@ -615,7 +504,7 @@
       <workItem from="1514249659804" duration="1440000" />
       <workItem from="1514275598118" duration="1670000" />
       <workItem from="1514336562505" duration="13924000" />
-      <workItem from="1514423579701" duration="8400000" />
+      <workItem from="1514423579701" duration="8487000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1514442993047</created>
@@ -631,11 +520,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514443377177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="23种设计模式">
+      <created>1514444230516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514444230516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39653000" />
+    <option name="totallyTimeSpent" value="39740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
