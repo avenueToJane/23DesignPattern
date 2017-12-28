@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a307d0a-ea42-4e51-a9b4-d29b38f2ccbe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/Mediator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/MyMediator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/中介者模式/mediator/User2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Proxy.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/ProxyTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Source.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/代理模式/proxy/Sourceable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Memento.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Original.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Storage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/备忘录模式/memento/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/CPU.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Computer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Disk.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/Memory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/外观模式/facade/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Adapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/AdapterTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Source.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/对象的适配器模式/Targetable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/FactoryTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/MailSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/SendFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/Sender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/多个工厂模式/SmsSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/FactoryTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/MailSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/SendFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/Sender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/普通工厂模式/SmsSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/FactoryTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/MailSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/SendFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/Sender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/工厂方法模式/静态工厂方法模式/SmsSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Builder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/MailSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Sender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/SmsSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/建造者模式/builder/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/MailSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Provider.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SendMailFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SendSmsFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Sender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/SmsSender.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/抽象工厂模式/AbstractFactory/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/SourceSub1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/SourceSub2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/Sourceable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/Wrapper2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/接口的适配器模式/WrapperTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/Bridge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/BridgeTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/MyBridge.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/SourceSub1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/SourceSub2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/桥接模式/bridge/Sourceable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/readme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/AbstractCalculator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/Plus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/模板方法模式/templateMethod/StrategyTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/Context.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/State.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/状态模式/state/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/AbstractCalculator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/ICalculator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Minus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Multiply.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/Plus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/策略模式/strategy/StrategyTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Adapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/AdapterTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Source.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/类的适配器模式/Targetable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/组合模式/composite/Tree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/组合模式/composite/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Decorator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/DecoratorTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Source.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/装饰模式/decorator/Sourceable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/AbstractSubject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/MySubject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Observer2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/ObserverTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/观察者模式/observer/Subject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Context.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Expression.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Minus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Plus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/解释器模式/Interpreter/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/MySubject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/MyVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Subject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/访问者模式/Visitor/Visitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/AbstractHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/Handler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/MyHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/责任链模式/ChainOfResponsibility/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Collection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Iterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/MyCollection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/MyIterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/迭代子模式/Iterator/Test.class" />
+      <change beforePath="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java" afterPath="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-beans/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-dao/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-web/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-iservice/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-utils/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN-master-60557499ea94ee7dbc1fab96967727a589ec5b97/tpsappsn-service-impl/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-beans/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-dao/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-utils/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-web/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-service-impl/target/" />
+    <ignored path="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-iservice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Expression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Plus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Minus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1036">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/AbstractSubject.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/MySubject.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Collection.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/MyCollection.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/MyIterator.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/迭代子模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/责任链模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/Handler.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/AbstractHandler.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/MyHandler.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Command.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/src/command/MyCommand.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Receiver.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Invoker.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Original.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/Memento.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/Storage.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Memento.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Storage.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/状态模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/状态模式/src/state/Context.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/状态模式/src/state/State.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/状态模式/src/state/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Visitor.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Subject.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/MySubject.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/访问者模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/MyMediator.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User1.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User2.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/Test.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/readme" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Expression.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Plus.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Minus.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Context.java" />
+        <option value="$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="westlifeys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="westlifeys" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\west\westlifeys\结构型模式7种\适配器模式\对象的适配器模式\src" />
+      <recent name="E:\west\westlifeys\创建型模式5种\建造者模式\src\builder" />
+      <recent name="E:\west\westlifeys\创建型模式5种\抽象工厂模式\src\AbstractFactory" />
+      <recent name="E:\west\westlifeys\创建型模式5种\工厂方法模式\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="普通工厂模式" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\west\westlifeys\结构型模式7种\外观模式" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-service-impl" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-utils" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-iservice" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-iservice/src/main" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-web" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-dao/src/main" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-beans/src/main" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-web/src/main" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-dao" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-service-impl/src/main" />
+        <option value="E:/陕西省的初始化项目/TPSAppSN/tpsappsn-beans" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="memento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="memento.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="备忘录模式" />
+      <envs />
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="state.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="状态模式" />
+      <envs />
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Visitor.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="访问者模式" />
+      <envs />
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mediator.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="中介者模式" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Interpreter.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="解释器模式" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a307d0a-ea42-4e51-a9b4-d29b38f2ccbe" name="Default" comment="" />
+      <created>1514190191104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514190191104</updated>
+      <workItem from="1514190192784" duration="14219000" />
+      <workItem from="1514249659804" duration="1440000" />
+      <workItem from="1514275598118" duration="1670000" />
+      <workItem from="1514336562505" duration="13924000" />
+      <workItem from="1514423579701" duration="8400000" />
+    </task>
+    <task id="LOCAL-00001" summary="23种设计模式">
+      <created>1514442993047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514442993047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="23种设计模式">
+      <created>1514443377177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514443377177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39653000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19005525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14583333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23种设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="23种设计模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/AbstractSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#332#333#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/MySubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/观察者模式/src/observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/模板方法模式/src/templateMethod/StrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/MyCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#250#251#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#410#411#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/MyIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#299#300#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/src/Iterator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/迭代子模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/责任链模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#248#249#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/MyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#244#245#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/责任链模式/src/ChainOfResponsibility/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/src/command/MyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#258#259#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#150#151#0" expanded="false" />
+            <element signature="e#205#206#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#191#192#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#256#257#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/命令模式/src/command/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Original.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#182#183#0" expanded="false" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#484#485#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#321#322#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#216#217#0" expanded="false" />
+            <element signature="e#254#255#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#319#320#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/备忘录模式/src/memento/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="25" column="58" lean-forward="false" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/状态模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/状态模式/src/state/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#193#194#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#258#259#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/状态模式/src/state/状态类的核心类.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/状态模式/src/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#188#189#0" expanded="false" />
+            <element signature="e#216#217#0" expanded="false" />
+            <element signature="e#258#259#0" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#380#381#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/状态模式/src/state/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/MyVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding>
+            <element signature="e#194#195#0" expanded="false" />
+            <element signature="e#267#268#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/MySubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/src/Visitor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/访问者模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/MyMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/User2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/中介者模式/src/mediator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行为型模式11种/解释器模式/src/Interpreter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
